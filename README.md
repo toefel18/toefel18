@@ -6,3 +6,6 @@ Love programming day and night, but ideally in a typechecked language :cop:. I'v
 I prefer ✨Kotlin✨ any time.
 
 Looking forward to try some rust soon!
+
+
+Photo: Terry the Turtle flipping the bird by Mark Fitzpatrick
